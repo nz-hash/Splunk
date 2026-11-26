@@ -1,39 +1,42 @@
-# Splunk
-This repository showcases my practical experience with Splunk SIEM, security monitoring, log analysis, and incident investigation. The project was built to develop SOC Analyst skills and demonstrate the ability to collect, analyze, and respond to security events in a lab environment.
-Organizations use Splunk to:
+# Splunk Learning Journey
+This repository documents my hands-on journey in learning Splunk and its applications in cybersecurity. My goal is to develop practical skills in security monitoring, log analysis, threat detection and incident investigation while building a deeper understanding of Security Information and Event Management (SIEM).
+I will continuously update this repository with practical labs, screenshots, search queries, findings and lessons learned as I progress.
 
-Monitor security events
+## What is Splunk?
 
-Detect suspicious activities
+Splunk is a data analytics platform used to collect, index, search, analyse and visualise machine-generated data from various sources, including servers, applications, firewalls, operating systems and network devices.
 
-Investigate incidents
+In cybersecurity, Splunk helps analysts identify suspicious activities, investigate security incidents and monitor systems. Splunk Enterprise Security (ES) is a dedicated SIEM solution built on the Splunk platform.
 
-Create dashboards and reports
+### Key capabilities
 
-Perform threat hunting
+- Log collection, indexing and analysis
+- Security monitoring and threat detection
+- Searching and correlating events using Search Processing Language (SPL)
+- Creating dashboards, reports and alerts
+- Supporting incident investigations
 
-Support security operations center (SOC) activities
+## Learning objectives and expected outcomes
 
+By the end of this journey, I aim to be able to:
 
-Splunk converts machine data into actionable intelligence by allowing analysts to search and correlate events from multiple systems in real time.
+- Explain Splunk's core components and how data flows through the platform.
+- Install and navigate a Splunk learning environment.
+- Ingest, index and search log data from different sources.
+- Write SPL queries to filter, aggregate and correlate security events.
+- Identify suspicious login attempts and other potential security threats.
+- Create dashboards, reports and alerts for security monitoring.
+- Investigate simulated security incidents and document evidence and findings.
+- Apply Splunk skills to practical SOC analyst scenarios.
 
-# Project Objective
+## Screenshots and evidence
 
-The objective of this lab is to gain hands-on experience with Splunk by:
+Screenshots will be added as I complete each practical exercise. Only authorised lab data will be used, and sensitive information will be removed before publishing.
 
-Installing and configuring Splunk Enterprise
+## Career alignment
 
-Ingesting log data from multiple sources
+This project forms part of my continuous professional development in cybersecurity. With my background in Information Technology and Computer Networks, I aim to strengthen my practical understanding of SIEM tools and develop the skills required for security monitoring, incident response and SOC operations.
 
-Creating searches and reports
+## Project status
 
-Developing monitoring dashboards
-
-Investigating security events
-
-Understanding log analysis and event correlation
-
-Building SOC analyst skills
-
-
-This project demonstrates practical experience with SIEM technology commonly used in enterprise environments.
+**In progress** — This repository will evolve as I complete new exercises, explore additional Splunk features and develop my cybersecurity skills.
